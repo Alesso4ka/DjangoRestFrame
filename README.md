@@ -1,4 +1,4 @@
-# GB_TODO_notes
+#TODO_notes
 ## Практическое задание (проект) Geekbrains курса Django Rest Framework DRF
 
 ## Последовательность действий tasks lesson-1
